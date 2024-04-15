@@ -2,6 +2,7 @@
   "name": "movie-gold-v1",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://springbootproject-h2xy.vercel.app",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
